@@ -7,4 +7,4 @@ No momento a criação do Azure Synapse Analytics não é possível via CLI.
 
 Há um script SQL com alguns dados fictícios representando os campos consultados na tabela Clientes.
 
-O Exemplo ilustra uma Function App com uma API (HttPTrigger) que efetua consultas em uma tabela, com alguns campos em query string servindo de where clause, use este exemplo apenas para quickstart e aprendizado.
+O Exemplo ilustra uma Function App com uma API (HttpTrigger) que efetua consultas em uma tabela, com alguns campos em query string servindo de where clause, use este exemplo apenas para quickstart e aprendizado.
